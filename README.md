@@ -1,1 +1,1 @@
-Building an RNN model for sentiment analysis task by usig LSTM
+This repository contains code for building a Recurrent Neural Network (RNN) model utilizing Long Short-Term Memory (LSTM) networks for sentiment analysis tasks. The project includes data preprocessing, model implementation, training loops, and evaluation metrics. It serves as a practical guide for leveraging LSTMs to analyze and classify sentiment in textual data.
